@@ -1,5 +1,7 @@
-# Voice database used in the article [Classification of ALS patients based on acoustic analysis of sustained vowel phonations](https://arxiv.org/abs/2012.07347)
+# Voice database used in the article [Classification of ALS patients based on acoustic analysis of sustained vowel phonations](https://arxiv.org/abs/2012.07347) 
 
+## Cite
+Vashkevich M., Rushkevich Yu. *Classification of ALS patients based on acoustic analysis of sustained vowel phonations*, Biomedical Signal Processing and Control, 2021, vol. 65., article 102350, pp. 1-14.
 [https://doi.org/10.1016/j.bspc.2020.102350](https://doi.org/10.1016/j.bspc.2020.102350)
 
 ## Database
